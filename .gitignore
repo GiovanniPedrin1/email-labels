@@ -179,3 +179,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Para os serviços que serão usados
+usuarios.json
+service-account.json
